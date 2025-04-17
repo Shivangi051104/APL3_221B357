@@ -1,0 +1,7 @@
+Demo 
+docker pull hello_world
+docker run hello_world
+docker run-it ubuntu
+exit
+docker stop <id>
+cmd 
